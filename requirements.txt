@@ -1,0 +1,16 @@
+pandas
+numpy
+pyxlsb
+matplotlib
+seaborn
+rapidfuzz
+scikit-learn
+nltk
+unicodedata
+lightgbm
+torch
+torchvision
+torchaudio
+transformers
+pickle
+wandb
