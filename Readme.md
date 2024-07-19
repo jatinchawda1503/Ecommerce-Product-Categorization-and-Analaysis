@@ -25,6 +25,10 @@ The project employs machine learning models, including MultinomialNB, LightGBM, 
 - `camabert_trainer.ipynb`: Trainer notebook for the CamemBERT model, trained on Kaggle using a GPU. It's not necessary to run this notebook as it details the training approach.
 - `camabert_infer.ipynb`: Inference notebook for predictions using CPU or GPU. Note that CPU execution may be slow for medium/large datasets.
 
+### Model Metrics 
+
+![Model Metrics](./notebooks/categorization/camembert_training_plots.png)
+
 ## Troubleshooting
 
 - **NLTK**: If missing stopwords or punkt, download them using `nltk.download('stopwords')` or `nltk.download('punkt')`.
