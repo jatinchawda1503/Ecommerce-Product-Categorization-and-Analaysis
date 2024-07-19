@@ -36,6 +36,10 @@ The project employs machine learning models, including MultinomialNB, LightGBM, 
 
 ![Ecommerce Analysis](./BI/ecommerce-analysis-report.png)
 
+### Matress Analysis
+
+![Matress Analysis](./BI/mattress_analysis.png)
+
 ## Troubleshooting
 
 - **NLTK**: If missing stopwords or punkt, download them using `nltk.download('stopwords')` or `nltk.download('punkt')`.
