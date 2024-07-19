@@ -29,6 +29,13 @@ The project employs machine learning models, including MultinomialNB, LightGBM, 
 
 ![Model Metrics](./notebooks/categorization/camembert_training_plots.png)
 
+
+### Dashbord
+
+#### Ecommerce Analysis
+
+![Ecommerce Analysis](./BI/ecommerce-analysis-report.png)
+
 ## Troubleshooting
 
 - **NLTK**: If missing stopwords or punkt, download them using `nltk.download('stopwords')` or `nltk.download('punkt')`.
